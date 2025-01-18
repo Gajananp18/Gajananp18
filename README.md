@@ -87,14 +87,38 @@
   <a href="https://www.java.com" target="_blank">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
   </a>
-  
-  
-  
-  
-
-  
-
 </p>
+---
+
+
+
+<!-- 
+<table>
+      <thead>
+            <tr>
+                  <th>
+                        <p align="center">
+                              <img src="https://github-readme-stats.vercel.app/api?username=Gajananp18&show_icons=true&theme=radical">
+                        </p>
+                  </th>
+                  <th>
+                        <p align="center">
+                              <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gajananp18">
+                        </p>
+                  </th>
+            </tr>
+      </thead>
+</table>
+-->
+
+<!-- 
+<p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gajananp18&langs_count=10">
+</p>
+-->
+
+
+
 
 
 <!-- 
